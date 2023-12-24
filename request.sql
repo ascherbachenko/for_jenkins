@@ -1,1 +1,1 @@
-select * from fr.fram_acc limit 1;
+SELECT fr.rfam_acc FROM full_region fr LIMIT 10;
